@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "25308758765",
+    "project_id": "olx-clone-faba7",
+    "storage_bucket": "olx-clone-faba7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25308758765:android:3367e02323b451fe3f42e4",
+        "android_client_info": {
+          "package_name": "com.example.olx_clone1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25308758765-ie10icapgtnjffm8pvo5t3o94mp7fbsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsP1t7TXLwnHQO-w_O6eGVMt0OUJVOthk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25308758765-ie10icapgtnjffm8pvo5t3o94mp7fbsl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "25308758765-fkjfk4b3a1fgrg4evk7vf2uhtbgddtmh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.olxClone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25308758765:android:de4e84e1d2fda27c3f42e4",
+        "android_client_info": {
+          "package_name": "com.example.olxclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25308758765-ie10icapgtnjffm8pvo5t3o94mp7fbsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsP1t7TXLwnHQO-w_O6eGVMt0OUJVOthk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25308758765-ie10icapgtnjffm8pvo5t3o94mp7fbsl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "25308758765-fkjfk4b3a1fgrg4evk7vf2uhtbgddtmh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.olxClone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
